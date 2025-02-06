@@ -1,4 +1,5 @@
 import log from './web.jpg'
+// Mon premier composant React
 function App01 (){
     return (
         <div className="t01">
